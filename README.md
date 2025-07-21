@@ -1,6 +1,6 @@
 # Rommel Risco – Personal Profile & Portfolio
 
-A modern, responsive, and animated personal website for Rommel Risco, Software Support Specialist. This project showcases professional experience, skills, certifications, and contact information with a beautiful UI and smooth UX.
+A modern, responsive, and animated personal website for Rommel Risco. This project showcases professional experience, skills, certifications, and contact information with a beautiful UI and smooth UX. No frameworks, just static HTML & CSS
 
 ## 🚀 Features
 - **Animated dark/light theme toggle**
